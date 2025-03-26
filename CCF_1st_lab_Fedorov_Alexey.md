@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f354843-66ab-40df-92b7-44470d3fdf95)# CCF Lab 1: Data Acquisition
+# CCF Lab 1: Data Acquisition
 
 ## Complete by Fedorov Alexey (tg @ullibniss)
 
