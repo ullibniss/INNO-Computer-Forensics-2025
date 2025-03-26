@@ -34,9 +34,12 @@ Then I got start sector and type of filesystem on `.dd` image with `cfdisk`
 
 Next step I create `loop` device for `evidence.dd`.
 
+![image](https://github.com/user-attachments/assets/cc469aa1-fd71-47cd-8fa0-0041a7b109d6)
 
 Final step, I mounted this `loop` device to `usb2`.
 
 ![image](https://github.com/user-attachments/assets/db926c66-71a3-4758-bcfe-b56f29c3df4a)
 
-## Task 2 - 
+# Task 2 - Imaging
+
+##
